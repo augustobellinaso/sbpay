@@ -1,3 +1,3 @@
 # SBPay - WebService de Pagamento
 
-WebService simples de pagamento que é utilizado na aplicação BlueFood.
+WebService simples para pagamento que é utilizado na aplicação BlueFood.
