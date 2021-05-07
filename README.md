@@ -9,7 +9,8 @@ WebService de pagamentos para ser utilizado no <a href="https://github.com/augus
 <p align="center">
  <a href="#executando-o-projeto">Executando o projeto</a> •
  <a href="#como-utilizar">Como utilizar</a> •
- <a href="#tecnologias">Tecnologias</a>
+ <a href="#tecnologias">Tecnologias</a> •
+ <a href="#deploy">Deploy</a>
 </p>
 
 --- 
@@ -73,5 +74,12 @@ Ferramentas Utilizadas para construir o projeto:
   - Spring Web
   - Spring Validation
   - Spring DevTools
+
+---
+
+## Deploy
+
+- Aplicação está hospedada na AWS: http://sbpayaugustobellinaso-env.eba-myveynxd.sa-east-1.elasticbeanstalk.com/
+- Possível fazer o teste da requisição `POST` com o link da aplicação no AWS adicionando o `path` `sbpay/pay` ao final do link.
 
 
