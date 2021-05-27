@@ -79,7 +79,7 @@ Ferramentas Utilizadas para construir o projeto:
 
 ## Deploy
 
-- Aplicação está hospedada na AWS: http://sbpayaugustobellinaso-env.eba-myveynxd.sa-east-1.elasticbeanstalk.com/
-- Possível fazer o teste da requisição `POST` com o link da aplicação no AWS adicionando o `path` `sbpay/pay` ao final do link.
+- Aplicação está hospedada no Heroku: https://sbpay-augustobellinaso.herokuapp.com/
+- Possível fazer o teste da requisição `POST` com o link da aplicação no Heroku adicionando o `path` `sbpay/pay` ao final do link.
 
 
